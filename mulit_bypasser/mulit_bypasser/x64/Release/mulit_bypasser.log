@@ -1,0 +1,12 @@
+﻿  dllmain.cpp
+  memory.cpp
+F:\video_hook\mulit_bypasser\mulit_bypasser\memory.cpp(34,16): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+F:\video_hook\mulit_bypasser\mulit_bypasser\memory.cpp(37,16): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+F:\video_hook\mulit_bypasser\mulit_bypasser\memory.cpp(40,16): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+F:\video_hook\mulit_bypasser\mulit_bypasser\memory.cpp(46,20): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+F:\video_hook\mulit_bypasser\mulit_bypasser\memory.cpp(46,20): warning C4309: 'initializing': truncation of constant value
+  Generating code
+  Compiler switch has changed, fall back to full compilation.
+  All 99 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  mulit_bypasser.vcxproj -> F:\video_hook\mulit_bypasser\x64\Release\mulit_bypasser.dll
